@@ -4690,5 +4690,6 @@ input, select, textarea {
 	@media screen and (max-width: 768px) {
 		#wrapper > .bg {
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg-mobile.jpg");
+			background-position: center, center, center top;
 		}
 	}
